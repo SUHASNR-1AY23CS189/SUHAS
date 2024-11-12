@@ -1,4 +1,8 @@
 SUHAS
 AIT 
+<<<<<<< HEAD
 BENGALURU
 KARNATAKA
+=======
+BANGALORE
+>>>>>>> ea79641 (add)
