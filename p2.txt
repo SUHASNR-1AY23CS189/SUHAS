@@ -1,8 +1,12 @@
 SUHAS
 AIT 
 <<<<<<< HEAD
+<<<<<<< HEAD
 BENGALURU
 KARNATAKA
 =======
 BANGALORE
 >>>>>>> ea79641 (add)
+=======
+BANGALORE
+>>>>>>> parent of 40a0ca5 (new commit)
